@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Olma",
+        "category": {
+            "id": 1,
+            "name": "Meva"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Anor",
+        "category": {
+            "id": 1,
+            "name": "Meva"
+        }
+    },
+    {
+        "id": 1,
+        "name": "Pepse",
+        "category": {
+            "id": 2,
+            "name": "Ichimlik"
+        }
+    }
+]
