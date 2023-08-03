@@ -11,7 +11,7 @@
         "id": 2,
         "name": "Anor",
         "category": {
-            "id": 1,
+            "id": 2,
             "name": "Meva"
         }
     },
@@ -19,7 +19,7 @@
         "id": 3,
         "name": "Pepse",
         "category": {
-            "id": 2,
+            "id": 3,
             "name": "Ichimlik"
         }
     },
@@ -27,8 +27,16 @@
         "id": 4,
         "name": "Fante",
         "category": {
-            "id": 2,
+            "id": 4,
             "name": "Ichimlik"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Mac",
+        "category": {
+            "id": 5,
+            "name": "Noutbuk"
         }
     }
 ]
